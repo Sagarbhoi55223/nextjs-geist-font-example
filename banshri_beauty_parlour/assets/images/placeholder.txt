@@ -1,0 +1,11 @@
+This folder contains placeholder images for the beauty parlour services.
+
+Required images:
+- bridal_makeup.jpg (1080x720px)
+- haircut.jpg (1080x720px)
+- facial.jpg (1080x720px)
+- manicure.jpg (1080x720px)
+- hair_spa.jpg (1080x720px)
+- threading.jpg (1080x720px)
+
+Note: In the actual implementation, these would be replaced with high-quality images of the respective services.
